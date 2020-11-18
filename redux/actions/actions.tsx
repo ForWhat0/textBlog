@@ -51,7 +51,7 @@ export function actionGetPosts(limit:string | number){
 
 }
 
-export function actionGetPost(id:string | number){
+export function actionGetPost(id: string | string[]){
     return async dispatch=>{
         try{
             dispatch(ShowLoader())
