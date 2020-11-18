@@ -1,0 +1,7 @@
+export const createPost = 'POSTS/CREATE_POST'
+export const getPosts = 'POSTS/GET_POSTS'
+export const getPost = 'POSTS/GET_POST'
+export const showLoader = 'APP/SHOW_LOADER'
+export const hideLoader = 'APP/HIDE_LOADER'
+export const showAlert = 'APP/SHOW_ALERT'
+export const hideAlert = 'APP/HIDE_ALERT'
