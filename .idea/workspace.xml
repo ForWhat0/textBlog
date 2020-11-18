@@ -2,10 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d28fd402-b246-4459-a634-cc09b1f16bed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/0b87980d038f89af7b3b56c356eceee9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/12fa00a8937d8ba2c5f6691b175d93a1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/3ef6ef4017c9bb767da3b9fb5d1e34b6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/535fa7f8fc2aa6e6b5417f036bdb6ca9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/67072d62eaa716345e9a4389b75a1f37.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/6e91de28d5d79df536adcc982cba7715.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/732b26928bfc4fdfe19ccf0855531ad4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/858c2ec4080d40e5241a434f6d8091c0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/a1d89999a25faab2a0b63abc8a5c059d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/ca546033b552f26d56e7604ccc8acdd2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/cbe60106cc596f91e6f87daeda1bd6d1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-minifier/content-v2/sha512/05/92/202a0b1c9f65b978a8f16fcc5d309d9ccdb1225182737760240aea2be64f7e72c46bdceb425bc46e36555ee68b9880f2b1c12434f2c7880809ef85921180" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-minifier/content-v2/sha512/39/dc/1750ed2d2387ab71afdf9badb429dfba96eb8177732342b544c7d484b7dbc839f2e30fc4afa0015129c19b40326cbb948dc5b9cb46ec8788163f6bc4881c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-minifier/content-v2/sha512/b0/60/19267dbb2f9d3c619ea7f74fa81d233d46d9519687ef179d0c3a12455006483454f325d42fc63c007a3eae59f8b9429f7c74a3620d038e1b3ad10f9a7324" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-minifier/content-v2/sha512/bd/c4/213605ebd79261ba79071e94217be685b69c8ccb605752281f103016f288f1bfa8c17533b1d0728f32431d3e22735d1e53e13b8282c9ade88a5ffd6c3ef0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-minifier/index-v5/35/6c/e15416937e9409294b26a49fc4b850a4236b8a732d5dd0af5009edba6b62" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-minifier/index-v5/60/45/8b510b44e3e1a08e883ee64140a70b760c1cc55097575066ec348beb9074" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-minifier/index-v5/63/29/89120895b1a9eb46895612a2aa7d9c80672b18313655a22e1e6f219f55c8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-minifier/index-v5/c8/4d/4de98680d090ab044e03ea580fcea8351c5936aaa5ba67a14d29282f1d03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/pages/next/dist/pages/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/pages/posts/new.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/chunks/pages/next/dist/pages/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/chunks/pages/posts/new.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/webpack/cbbd1d351c398d418f5e.hot-update.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redux/actions/actions.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/redux/actions/actions.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +54,15 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1kMfORadxdsG0n2oZyTm392o49d" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -77,12 +104,15 @@
       <updated>1605515349743</updated>
       <workItem from="1605515350786" duration="29411000" />
       <workItem from="1605608535932" duration="42843000" />
-      <workItem from="1605656429005" duration="11129000" />
+      <workItem from="1605656429005" duration="13515000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="453" y="170" width="633" height="524" key="#ESLint" timestamp="1605662139836">
